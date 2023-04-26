@@ -1,0 +1,5 @@
+//Install Pages (After unzip)
+>npm install
+
+//Run Application
+>npm run serve
